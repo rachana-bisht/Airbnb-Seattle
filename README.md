@@ -19,3 +19,5 @@ Q2. How the locality affects the price of the property?
 Q3. Is there any relationship between price of the listing and the property- type such as how price of rentals varies with condominiums, apartments or house ?
 # Installation Requirements:
 This project requires Python 3.6 and the common Python libraries such as Numpy, Pandas, Mathplotlib and Seaborn.
+# License
+Under MIT license which means it's an open/public project, please feel free to download, make changes and give me feedback.
